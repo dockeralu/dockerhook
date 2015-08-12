@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -d -p 82:80 thunderscore/dockerhook
+docker run --name dockerhook -d -p 82:80 thunderscore/dockerhook
