@@ -1,2 +1,0 @@
-# dockerhook
-Docker hook test
